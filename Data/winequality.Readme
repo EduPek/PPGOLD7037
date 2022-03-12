@@ -1,0 +1,78 @@
+#This dataSet has been modified from the original to Educational purposes
+
+
+ORIGINAL INFORMATION may be found in https://archive-beta.ics.uci.edu/ml/datasets/wine+quality
+
+Citation Request:
+  This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
+  Please include this citation if you plan to use this database:
+
+  P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+  Modeling wine preferences by data mining from physicochemical properties.
+  In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+  Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
+                [Pre-press (pdf)] http://www3.dsi.uminho.pt/pcortez/winequality09.pdf
+                [bib] http://www3.dsi.uminho.pt/pcortez/dss09.bib
+                
+Modifications 
+
+- Merged the white and red wine into just one data set
+- Added the column grapes using a random generator
+- Changed some values to "?" 
+- changed the separator to ","
+
+
+1. Title: Wine Quality 
+
+2. Sources
+   Created by: Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009
+
+3. Number of Instances: wine - 6497; 
+
+4. Number of Attributes: 13 + output attribute
+  
+   Note: several of the attributes may be correlated, thus it makes sense to apply some sort of
+   feature selection.
+
+5. Attribute information:
+
+   Input variables (based on physicochemical tests):
+   
+   1 - color
+   2 -  grape
+   3 - fixed acidity
+   4 - volatile acidity
+   5 - citric acid
+   6 - residual sugar
+   7 - chlorides
+   8 - free sulfur dioxide
+   9 - total sulfur dioxide
+   10 - density
+   11 - pH
+   12 - sulphates
+   13 - alcohol
+   Output variable (based on sensory data): 
+   14 - quality (score between 0 and 10)
+
+Types information
+
+Column 					 Type
+
+color                    object
+grape                    object
+fixed acidity           float64
+volatile acidity        float64
+citric acid             float64
+residual sugar          float64
+chlorides               float64
+free sulfur dioxide     float64
+total sulfur dioxide    float64
+density                 float64
+pH                      float64
+sulphates               float64
+alcohol                 float64
+quality                   int64
+
+
+8. Missing Attribute Values: "?"
