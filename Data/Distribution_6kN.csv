@@ -48,7 +48,7 @@
 3,P1,F4,CD2,C203,?,SemiTrailler,D01,15,4,86.5,CityDeliveryTruck,D2_1,3
 5,P1,F2,CD3,C304,58,Truck,D05,31,1,187.5,Van,D3_5,6
 3,P6,F4,CD3,C304,58,Truck,D02,18,3,?,Van,D3_1,2
-5,P6,F4,CD2,C205,162,SemiTrailler,D03,33,1,?,Van,D2_2,6
+5,P6,F4,CD2,C205,162,SemiTrailler,?,33,1,?,Van,D2_2,6
 3,P4,F2,CD3,C302,58,SemiTrailler,D01,18,1,29.4,Van,D3_2,1
 2,P3,F3,CD1,C102,36,SemiTrailler,D04,30,4,86.7,Van,D1_2,3
 1,P9,F3,CD2,C201,162,SemiTrailler,D01,15,0,116.4,MiniVan,D2_6,4
