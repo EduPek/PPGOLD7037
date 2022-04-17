@@ -11,7 +11,7 @@
 1,P8,F3,?,C101,36,SemiTrailler,D05,30,1,28.9,CityDeliveryTruck,D1_3,1
 5,P9,F3,CD3,C301,58,SemiTrailler,D01,24,3,58.5,Van,D3_1,2
 3,P1,F2,CD3,C302,58,SemiTrailler,D05,29,1,28.7,CityDeliveryTruck,D3_4,1
-5,P6,F3,CD2,C204,162,Truck,D01,5,1,?.3,CityDeliveryTruck,D2_1,5
+5,P6,F3,CD2,C204,162,Truck,D01,5,1,?,CityDeliveryTruck,D2_1,5
 2,P5,F3,CD1,C102,36,SemiTrailler,D04,9,2,121,Van,D1_4,4
 2,P7,F2,CD2,C202,162,SemiTrailler,D04,15,3,152.8,MiniVan,D2_3,5
 1,P7,F3,CD3,C302,58,Truck,D04,6,4,152.5,CityDeliveryTruck,D3_2,5
